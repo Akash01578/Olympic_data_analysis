@@ -15,5 +15,6 @@ In this Repo there are Eight questions related to olympics games like
 which are answered using basic data analysis concepts performed on Olympics_DataSet using python and its libraries.
 
 ## About me
-Name :- Akash Pawar\n
+Name :- Akash Pawar
+
 E-mail Id :- akashpawar1102000@gmail.com
