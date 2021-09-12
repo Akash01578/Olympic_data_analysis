@@ -1,4 +1,4 @@
-# Olympic_data_analysis ETG Internship
+# Olympic_data_analysis ETG 
 Analysis of Data of Summer Olympics games using Python and Olympics data_set
 
 In this Repo there are Eight questions related to olympics games like
